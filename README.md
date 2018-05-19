@@ -1,3 +1,6 @@
+## NOTICE: ##
+We use this fork for beta releases. You should not use it unless you really know what you are doing. If your objective is to use our ANEs, just get ANE-LAB from it's original repo: https://github.com/myflashlab/ANE-LAB/
+
 # ANE-LAB for MAC & WIN
 
 Mac OS X | Windows

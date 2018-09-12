@@ -1,6 +1,6 @@
 {
 	"lab":{
-		"v":"1.1.17",
+		"v":"1.1.20",
 		"changelog":"",
 		"path_dmg":"aneLab.dmg",
 		"path_exe":"aneLab.exe"
@@ -20,7 +20,7 @@
 		{
 			"name":"ZipManager",
 			"id":"com.myflashlab.air.extensions.zipManager",
-			"v":"3.0.2",
+			"v":"3.1.0",
 			"desc":"ZipManager air native extension will zip or unzip large zip archives super fast using native process in threads supporting both Android and iOS",
 			"changelog":"https://github.com/myflashlab/zipManager-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -64,7 +64,7 @@
 		{
 			"name":"VideoPlayer",
 			"id":"com.myflashlab.air.extensions.videoPlayer",
-			"v":"3.1.0",
+			"v":"3.2.1",
 			"desc":"video player air native extension supported on Android and iOS. it let's you play video files in native players, locally or online.",
 			"changelog":"https://github.com/myflashlab/videoPlayer-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -122,7 +122,7 @@
 		{
 			"name":"PDFViewer",
 			"id":"com.myflashlab.air.extensions.pdfViewer",
-			"v":"2.1.2",
+			"v":"2.2.1",
 			"desc":"Pdf Viewer air native extension lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/PDF-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -144,7 +144,7 @@
 		{
 			"name":"In-app-payments",
 			"id":"com.myflashlab.air.extensions.billing",
-			"v":"2.5.0",
+			"v":"2.5.1",
 			"desc":"Identical in-app-billing and in-app-purchase Air Native Extension for Android and iOS",
 			"changelog":"https://github.com/myflashlab/inAppPayments-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -177,7 +177,7 @@
 		{
 			"name":"FirebaseCore",
 			"id":"com.myflashlab.air.extensions.firebase.core",
-			"v":"6.5.0",
+			"v":"6.5.1",
 			"desc":"Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -263,6 +263,17 @@
 			"path_swc":"firebase/crash/firebaseCrash.swc"
 		},
 		{
+			"name":"FirebaseCrashlytics",
+			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
+			"v":"6.5.0",
+			"desc":"Firebase Crashlytics.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
+			"thumb":"firebase/crashlytics/icon.png",
+			"path_ane":"firebase/crashlytics/firebaseCrashlytics.ane",
+			"path_swc":"firebase/crashlytics/firebaseCrashlytics.swc"
+		},
+		{
 			"name":"FirebaseAuth",
 			"id":"com.myflashlab.air.extensions.firebase.auth",
 			"v":"6.5.0",
@@ -342,7 +353,7 @@
 		{
 			"name":"admob",
 			"id":"com.myflashlab.air.extensions.admob",
-			"v":"2.6.0",
+			"v":"3.0.0",
 			"desc":"Admob Air native Extension",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -393,6 +404,127 @@
 			"thumb":"DEPENDENCY/AndroidSupport/icon.png",
 			"path_ane":"DEPENDENCY/AndroidSupport/androidSupport.ane",
 			"path_swc":"DEPENDENCY/AndroidSupport/androidSupport.swc"
+		},
+		{
+			"name":"AndroidSupport-appcompat-v7",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.appcompatV7",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-appcompat-v7/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-appcompat-v7/androidSupport-appcompatV7.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-appcompat-v7/androidSupport-appcompatV7.swc"
+		},
+		{
+			"name":"AndroidSupport-arch",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.arch",
+			"v":"1.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-arch/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-arch/androidSupport-arch.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-arch/androidSupport-arch.swc"
+		},
+		{
+			"name":"AndroidSupport-cardview-v7",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.cardviewV7",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-cardview-v7/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-cardview-v7/androidSupport-cardviewV7.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-cardview-v7/androidSupport-cardviewV7.swc"
+		},
+		{
+			"name":"AndroidSupport-core",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.core",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-core/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-core/androidSupport-core.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-core/androidSupport-core.swc"
+		},
+		{
+			"name":"AndroidSupport-customtabs",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.customtabs",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-customtabs/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.swc"
+		},
+		{
+			"name":"AndroidSupport-design",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.design",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-design/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-design/androidSupport-design.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-design/androidSupport-design.swc"
+		},
+		{
+			"name":"AndroidSupport-exifinterface",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.exifinterface",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-exifinterface/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-exifinterface/androidSupport-exifinterface.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-exifinterface/androidSupport-exifinterface.swc"
+		},
+		{
+			"name":"AndroidSupport-mediarouter-v7",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.mediarouterV7",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-mediarouter-v7/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-mediarouter-v7/androidSupport-mediarouterV7.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-mediarouter-v7/androidSupport-mediarouterV7.swc"
+		},
+		{
+			"name":"AndroidSupport-v4",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.v4",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-v4/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-v4/androidSupport-v4.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-v4/androidSupport-v4.swc"
+		},
+		{
+			"name":"AndroidSupport-v13",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.v13",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-v13/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.swc"
+		},
+		{
+			"name":"Bolts",
+			"id":"com.myflashlab.air.extensions.dependency.bolts",
+			"v":"1.4.0",
+			"desc":"Bolts is a collection of low-level libraries designed to make developing mobile apps easier.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/bolts/icon.png",
+			"path_ane":"DEPENDENCY/bolts/bolts.ane",
+			"path_swc":"DEPENDENCY/bolts/bolts.swc"
 		},
 		{
 			"name":"firebase-analytics",

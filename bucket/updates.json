@@ -177,7 +177,7 @@
 		{
 			"name":"FirebaseCore",
 			"id":"com.myflashlab.air.extensions.firebase.core",
-			"v":"6.5.1",
+			"v":"7.0.0",
 			"desc":"Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -188,7 +188,7 @@
 		{
 			"name":"FirebaseStorage",
 			"id":"com.myflashlab.air.extensions.firebase.storage",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Storage.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -199,7 +199,7 @@
 		{
 			"name":"FirebaseRemoteConfig",
 			"id":"com.myflashlab.air.extensions.firebase.remoteConfig",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase RemoteConfig.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -210,7 +210,7 @@
 		{
 			"name":"FirebaseDatabase",
 			"id":"com.myflashlab.air.extensions.firebase.realtimeDB",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Database.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -221,7 +221,7 @@
 		{
 			"name":"FirebaseInvites",
 			"id":"com.myflashlab.air.extensions.firebase.invites",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Invites.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -232,7 +232,7 @@
 		{
 			"name":"FirebaseMessaging",
 			"id":"com.myflashlab.air.extensions.firebase.fcm",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Messaging.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -243,7 +243,7 @@
 		{
 			"name":"FirebaseDynamicLinks",
 			"id":"com.myflashlab.air.extensions.firebase.dynamicLinks",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase DynamicLinks.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -265,7 +265,7 @@
 		{
 			"name":"FirebaseCrashlytics",
 			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Crashlytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -276,7 +276,7 @@
 		{
 			"name":"FirebaseAuth",
 			"id":"com.myflashlab.air.extensions.firebase.auth",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Auth.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -287,7 +287,7 @@
 		{
 			"name":"FirebaseAnalytics",
 			"id":"com.myflashlab.air.extensions.firebase.analytics",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Analytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -298,13 +298,24 @@
 		{
 			"name":"FirebaseFirestore",
 			"id":"com.myflashlab.air.extensions.firebase.firestore",
-			"v":"6.5.0",
+			"v":"7.0.0",
 			"desc":"Firebase Firestore.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
 			"thumb":"firebase/firestore/icon.png",
 			"path_ane":"firebase/firestore/firebaseFirestore.ane",
 			"path_swc":"firebase/firestore/firebaseFirestore.swc"
+		},
+		{
+			"name":"FirebaseMlkit",
+			"id":"com.myflashlab.air.extensions.firebase.mlkit",
+			"v":"7.0.0",
+			"desc":"Firebase Mlkit.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
+			"thumb":"firebase/mlKit/icon.png",
+			"path_ane":"firebase/mlKit/firebaseMlkit.ane",
+			"path_swc":"firebase/mlKit/firebaseMlkit.swc"
 		},
 		{
 			"name":"fileBrowser",

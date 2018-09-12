@@ -1183,6 +1183,17 @@
 			"thumb":"DEPENDENCY/play-services-vision/icon.png",
 			"path_ane":"DEPENDENCY/play-services-vision/googlePlayServices_vision.ane",
 			"path_swc":"DEPENDENCY/play-services-vision/googlePlayServices_vision.swc"
+		},
+		{
+			"name":"tensorflow",
+			"id":"com.myflashlab.air.extensions.dependency.tensorflow",
+			"v":"0.1.7",
+			"desc":"Includes Android dependencies for Tensorflow library",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/tensorflow/icon.png",
+			"path_ane":"DEPENDENCY/tensorflow/tensorflow.ane",
+			"path_swc":"DEPENDENCY/tensorflow/tensorflow.swc"
 		}
 	]
 }

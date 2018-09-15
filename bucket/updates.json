@@ -397,8 +397,8 @@
 		{
 			"name":"facebook",
 			"id":"com.myflashlab.air.extensions.facebook",
-			"v":"4.30.2",
-			"desc":"This air native extension is your best solution to integrate Facebook SDK into your AdobeAir apps",
+			"v":"4.35.0",
+			"desc":"Integrate the official native Facebook SDK into your AdobeAir apps",
 			"changelog":"https://github.com/myflashlab/facebook-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
 			"thumb":"facebook/icon.png",

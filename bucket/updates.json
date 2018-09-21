@@ -155,7 +155,7 @@
 		{
 			"name":"GPS",
 			"id":"com.myflashlab.air.extensions.gps",
-			"v":"3.3.2",
+			"v":"3.3.3",
 			"desc":"Gps air native extension will let you get current device gps location as fast as possible by automatically checking the best available provider.",
 			"changelog":"https://github.com/myflashlab/GPS-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,

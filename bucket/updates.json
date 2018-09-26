@@ -20,7 +20,7 @@
 		{
 			"name":"ZipManager",
 			"id":"com.myflashlab.air.extensions.zipManager",
-			"v":"3.1.0",
+			"v":"3.1.1",
 			"desc":"ZipManager air native extension will zip or unzip large zip archives super fast using native process in threads supporting both Android and iOS",
 			"changelog":"https://github.com/myflashlab/zipManager-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -31,7 +31,7 @@
 		{
 			"name":"RichWebview",
 			"id":"com.myflashlab.air.extensions.webView",
-			"v":"7.1.3",
+			"v":"7.1.4",
 			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
 			"changelog":"https://github.com/myflashlab/webView-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -848,7 +848,7 @@
 		{
 			"name":"overrideAir",
 			"id":"com.myflashlab.air.extensions.dependency.overrideAir",
-			"v":"5.1.3",
+			"v":"5.1.4",
 			"desc":"Includes Android and iOS override methods for native functions to prevent ANE conflicts or ANE method hijacking.",
 			"changelog":"",
 			"isDependency":true,

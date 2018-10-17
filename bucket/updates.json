@@ -42,7 +42,7 @@
 		{
 			"name":"volume",
 			"id":"com.myflashlab.air.extensions.volume",
-			"v":"2.0.3",
+			"v":"2.0.4",
 			"desc":"Check if device is muted or not, Control the device volume, play Sounds with NO latency, request for audio focus in your app so background music will be stopped.",
 			"changelog":"https://github.com/myflashlab/VolumePro-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -342,7 +342,7 @@
 		{
 			"name":"badge",
 			"id":"com.myflashlab.air.extensions.badge",
-			"v":"1.1.2",
+			"v":"1.1.3",
 			"desc":"control the iOS badge value directly from Adobe AIR app",
 			"changelog":"https://github.com/myflashlab/Badge-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,

@@ -9,7 +9,7 @@
 		{
 			"name":"GoogleSignIn",
 			"id":"com.myflashlab.air.extensions.google.signin",
-			"v":"1.4.0",
+			"v":"1.4.1",
 			"desc":"GoogleSignIn AIR Native Extension lets you signin your users to your app using Google. Works on Android and iOS",
 			"changelog":"https://github.com/myflashlab/GoogleSignIn-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -20,7 +20,7 @@
 		{
 			"name":"ZipManager",
 			"id":"com.myflashlab.air.extensions.zipManager",
-			"v":"3.1.1",
+			"v":"3.1.2",
 			"desc":"ZipManager air native extension will zip or unzip large zip archives super fast using native process in threads supporting both Android and iOS",
 			"changelog":"https://github.com/myflashlab/zipManager-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -31,7 +31,7 @@
 		{
 			"name":"RichWebview",
 			"id":"com.myflashlab.air.extensions.webView",
-			"v":"7.1.4",
+			"v":"7.1.5",
 			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
 			"changelog":"https://github.com/myflashlab/webView-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -42,7 +42,7 @@
 		{
 			"name":"volume",
 			"id":"com.myflashlab.air.extensions.volume",
-			"v":"2.0.4",
+			"v":"2.0.5",
 			"desc":"Check if device is muted or not, Control the device volume, play Sounds with NO latency, request for audio focus in your app so background music will be stopped.",
 			"changelog":"https://github.com/myflashlab/VolumePro-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -53,7 +53,7 @@
 		{
 			"name":"videoPlayerSurface",
 			"id":"com.myflashlab.air.extensions.videoPlayerSurface",
-			"v":"3.4.3",
+			"v":"3.4.4",
 			"desc":"SurfacePlayer air native extension helps you play video files inside your air mobile projects and you can control the position of the player by setting x, y, width and height parameters.",
 			"changelog":"https://github.com/myflashlab/surfaceVideoPlayer-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -64,7 +64,7 @@
 		{
 			"name":"VideoPlayer",
 			"id":"com.myflashlab.air.extensions.videoPlayer",
-			"v":"3.2.2",
+			"v":"3.2.3",
 			"desc":"video player air native extension supported on Android and iOS. it let's you play video files in native players, locally or online.",
 			"changelog":"https://github.com/myflashlab/videoPlayer-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -89,7 +89,7 @@
 		{
 			"name":"Statusbar",
 			"id":"com.myflashlab.air.extensions.statusbar",
-			"v":"1.0.2",
+			"v":"1.0.3",
 			"desc":"Control the Statusbar in your AIR apps in runtime with this AIR Native Extension",
 			"changelog":"https://github.com/myflashlab/Statusbar-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -100,7 +100,7 @@
 		{
 			"name":"Spotlight",
 			"id":"com.myflashlab.air.extensions.spotlight",
-			"v":"1.0.2",
+			"v":"1.0.3",
 			"desc":"Spotlight ANE brings iOS 9 spotlight library to Adobe Air applications. With this ANE, you can index search items at runtime and even from user generated content. ",
 			"changelog":"https://github.com/myflashlab/Spotlight-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -111,7 +111,7 @@
 		{
 			"name":"RateMe",
 			"id":"com.myflashlab.air.extensions.rateMe",
-			"v":"1.2.1",
+			"v":"1.2.3",
 			"desc":"Rate Me Air Native Extension lets you ask your users to rate your app in the most efficient way. i.e you can make sure you are asking for users feedback only when you are sure that they have found your app interesting and are using it frequently.",
 			"changelog":"https://github.com/myflashlab/RateMe-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -122,7 +122,7 @@
 		{
 			"name":"PDFViewer",
 			"id":"com.myflashlab.air.extensions.pdfViewer",
-			"v":"2.2.2",
+			"v":"2.2.3",
 			"desc":"Pdf Viewer air native extension lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/PDF-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -133,7 +133,7 @@
 		{
 			"name":"LocalNotification",
 			"id":"com.myflashlab.air.extensions.localNotification",
-			"v":"2.0.1",
+			"v":"2.0.2",
 			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
 			"changelog":"https://github.com/myflashlab/LocalNotification-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -155,7 +155,7 @@
 		{
 			"name":"In-app-payments",
 			"id":"com.myflashlab.air.extensions.billing",
-			"v":"2.5.2",
+			"v":"2.5.3",
 			"desc":"Identical in-app-billing and in-app-purchase Air Native Extension for Android and iOS",
 			"changelog":"https://github.com/myflashlab/inAppPayments-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -166,7 +166,7 @@
 		{
 			"name":"GPS",
 			"id":"com.myflashlab.air.extensions.gps",
-			"v":"3.3.3",
+			"v":"3.3.4",
 			"desc":"Gps air native extension will let you get current device gps location as fast as possible by automatically checking the best available provider.",
 			"changelog":"https://github.com/myflashlab/GPS-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -177,7 +177,7 @@
 		{
 			"name":"GameServices",
 			"id":"com.myflashlab.air.extensions.gameServices",
-			"v":"4.1.0",
+			"v":"4.1.1",
 			"desc":"Game Services Air native extension is supported on Android with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.",
 			"changelog":"https://github.com/myflashlab/GameServices-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -188,7 +188,7 @@
 		{
 			"name":"FirebaseCore",
 			"id":"com.myflashlab.air.extensions.firebase.core",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -199,7 +199,7 @@
 		{
 			"name":"FirebaseStorage",
 			"id":"com.myflashlab.air.extensions.firebase.storage",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Storage.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -210,7 +210,7 @@
 		{
 			"name":"FirebaseRemoteConfig",
 			"id":"com.myflashlab.air.extensions.firebase.remoteConfig",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase RemoteConfig.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -221,7 +221,7 @@
 		{
 			"name":"FirebaseDatabase",
 			"id":"com.myflashlab.air.extensions.firebase.realtimeDB",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Database.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -232,7 +232,7 @@
 		{
 			"name":"FirebaseInvites",
 			"id":"com.myflashlab.air.extensions.firebase.invites",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Invites.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -243,7 +243,7 @@
 		{
 			"name":"FirebaseMessaging",
 			"id":"com.myflashlab.air.extensions.firebase.fcm",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Messaging.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -254,7 +254,7 @@
 		{
 			"name":"FirebaseDynamicLinks",
 			"id":"com.myflashlab.air.extensions.firebase.dynamicLinks",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase DynamicLinks.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -276,7 +276,7 @@
 		{
 			"name":"FirebaseCrashlytics",
 			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Crashlytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -287,7 +287,7 @@
 		{
 			"name":"FirebaseAuth",
 			"id":"com.myflashlab.air.extensions.firebase.auth",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Auth.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -298,7 +298,7 @@
 		{
 			"name":"FirebaseAnalytics",
 			"id":"com.myflashlab.air.extensions.firebase.analytics",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Analytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -309,7 +309,7 @@
 		{
 			"name":"FirebaseFirestore",
 			"id":"com.myflashlab.air.extensions.firebase.firestore",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Firestore.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -320,7 +320,7 @@
 		{
 			"name":"FirebaseMlkit",
 			"id":"com.myflashlab.air.extensions.firebase.mlkit",
-			"v":"7.0.0",
+			"v":"7.0.1",
 			"desc":"Firebase Mlkit.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -331,7 +331,7 @@
 		{
 			"name":"fileBrowser",
 			"id":"com.myflashlab.air.extensions.fileBrowser",
-			"v":"4.1.5",
+			"v":"4.1.6",
 			"desc":"FileChooser is a very easy to work air native extension to let you choose a file from your device to be able to use it inside your Adobe Air project",
 			"changelog":"https://github.com/myflashlab/fileChooser-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -342,7 +342,7 @@
 		{
 			"name":"barcode",
 			"id":"com.myflashlab.air.extensions.barcode",
-			"v":"3.4.6",
+			"v":"3.4.7",
 			"desc":"Scan almost any barcode type with this super fast barcode scanner air native extension",
 			"changelog":"https://github.com/myflashlab/barcode-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -364,7 +364,7 @@
 		{
 			"name":"badge",
 			"id":"com.myflashlab.air.extensions.badge",
-			"v":"1.1.3",
+			"v":"1.1.4",
 			"desc":"control the iOS badge value directly from Adobe AIR app",
 			"changelog":"https://github.com/myflashlab/Badge-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -375,18 +375,18 @@
 		{
 			"name":"AR",
 			"id":"com.myflashlab.air.extensions.ar",
-			"v":"1.1.2",
+			"v":"1.1.4",
 			"desc":"Augmented Reality Air Native Extension supporting Android and iOS based on Wikitude SDK ",
 			"changelog":"https://github.com/myflashlab/AR-ANE-Samples/blob/master/ChangeLog.txt",
 			"isDependency":false,
 			"thumb":"ar/icon.png",
-			"path_ane":"https://www.myflashlabs.com/anelab/ar112.ane",
-			"path_swc":"https://www.myflashlabs.com/anelab/ar112.swc"
+			"path_ane":"https://www.myflashlabs.com/anelab/ar114.ane",
+			"path_swc":"https://www.myflashlabs.com/anelab/ar114.swc"
 		},
 		{
 			"name":"ADBMobile",
 			"id":"com.myflashlab.air.extensions.ADBMobile",
-			"v":"4.17.0",
+			"v":"4.17.1",
 			"desc":"Adobe Mobile SDK for Experience Cloud Solutions for AIR native Extension",
 			"changelog":"https://github.com/myflashlab/ADBMobile#changelog",
 			"isDependency":false,
@@ -397,7 +397,7 @@
 		{
 			"name":"admob",
 			"id":"com.myflashlab.air.extensions.admob",
-			"v":"4.0.1",
+			"v":"4.0.2",
 			"desc":"Admob & DoubleClick SDKs for AdobeAIR users",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -408,7 +408,7 @@
 		{
 			"name":"permissionCheck",
 			"id":"com.myflashlab.air.extensions.permissionCheck",
-			"v":"3.0.0",
+			"v":"3.0.1",
 			"desc":"Check and request for permissions in your Adobe Air app",
 			"changelog":"https://github.com/myflashlab/PermissionCheck-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -419,7 +419,7 @@
 		{
 			"name":"googleVR",
 			"id":"com.myflashlab.air.extensions.googleVR",
-			"v":"3.1.0",
+			"v":"3.1.1",
 			"desc":"Google Virtual Reality SDK for to Adobe AIR developers",
 			"changelog":"https://github.com/myflashlab/GoogleVR-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -430,7 +430,7 @@
 		{
 			"name":"facebook",
 			"id":"com.myflashlab.air.extensions.facebook",
-			"v":"4.35.0",
+			"v":"4.35.1",
 			"desc":"Integrate the official native Facebook SDK into your AdobeAir apps",
 			"changelog":"https://github.com/myflashlab/facebook-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,

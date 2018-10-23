@@ -75,7 +75,7 @@
 		{
 			"name":"UDID",
 			"id":"com.myflashlab.air.extensions.udid",
-			"v":"1.1.4",
+			"v":"1.1.5",
 			"desc":"Use this AIR Native Extension to obtain a unique device ID in your Adobe AIR app. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/UDID-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
@@ -140,6 +140,17 @@
 			"thumb":"localNotification/icon.png",
 			"path_ane":"localNotification/localNotification.ane",
 			"path_swc":"localNotification/localNotification.swc"
+		},
+		{
+			"name":"packageManager",
+			"id":"com.myflashlab.air.extensions.packageManager",
+			"v":"2.0.1",
+			"desc":"AIR Native Extension to give you access to Android's PackageManager API",
+			"changelog":"https://github.com/myflashlab/packageManager-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
+			"thumb":"packageManager/icon.png",
+			"path_ane":"packageManager/packageManager.ane",
+			"path_swc":"packageManager/packageManager.swc"
 		},
 		{
 			"name":"In-app-payments",
@@ -338,6 +349,17 @@
 			"thumb":"barcode/icon.png",
 			"path_ane":"barcode/barcode.ane",
 			"path_swc":"barcode/barcode.swc"
+		},
+		{
+			"name":"CMD",
+			"id":"com.myflashlab.air.extensions.cmd",
+			"v":"1.0.1",
+			"desc":"Run Android command-line from your AIR app using this little AIR Native Extension",
+			"changelog":"https://github.com/myflashlab/CMD-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
+			"thumb":"cmd/icon.png",
+			"path_ane":"cmd/cmd.ane",
+			"path_swc":"cmd/cmd.swc"
 		},
 		{
 			"name":"badge",

@@ -824,6 +824,17 @@
 			"path_swc":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.swc"
 		},
 		{
+			"name":"gson",
+			"id":"com.myflashlab.air.extensions.dependency.gson",
+			"v":"2.8.2",
+			"desc":"Includes Android dependencies for the Gson library",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/gson/icon.png",
+			"path_ane":"DEPENDENCY/gson/gson.ane",
+			"path_swc":"DEPENDENCY/gson/gson.swc"
+		},
+		{
 			"name":"gvr_base",
 			"id":"com.myflashlab.air.extensions.dependency.gvr.base",
 			"v":"1.70.0",
@@ -881,7 +892,7 @@
 		{
 			"name":"overrideAir",
 			"id":"com.myflashlab.air.extensions.dependency.overrideAir",
-			"v":"5.6.0",
+			"v":"5.6.1",
 			"desc":"Includes Android and iOS override methods for native functions to prevent ANE conflicts or ANE method hijacking.",
 			"changelog":"",
 			"isDependency":true,

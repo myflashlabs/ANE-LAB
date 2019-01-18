@@ -304,6 +304,17 @@
 			"path_swc":"localNotification/localNotification.swc"
 		},
 		{
+			"name":"OneSignal",
+			"id":"com.myflashlab.air.extensions.onesignal",
+			"v":"0.0.1",
+			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
+			"changelog":"https://github.com/myflashlab/OneSignal-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"OneSignal/icon.png",
+			"path_ane":"OneSignal/onesignal.ane",
+			"path_swc":"OneSignal/onesignal.swc"
+		},
+		{
 			"name":"packageManager",
 			"id":"com.myflashlab.air.extensions.packageManager",
 			"v":"2.0.1",

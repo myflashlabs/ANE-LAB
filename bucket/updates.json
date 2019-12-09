@@ -505,6 +505,17 @@
 			]
 		},
 		{
+			"name":"vibration",
+			"id":"com.myflashlab.air.extensions.vibration",
+			"v":"0.0.1",
+			"desc":"Enables vibration for AdobeAIR",
+			"changelog":"https://github.com/myflashlab/vibration-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"vibration/icon.png",
+			"path_ane":"vibration/vibration.ane",
+			"path_swc":"vibration/vibration.swc"
+		},
+		{
 			"name":"VideoPlayer",
 			"id":"com.myflashlab.air.extensions.videoPlayer",
 			"v":"3.2.41",

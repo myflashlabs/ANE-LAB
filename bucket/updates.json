@@ -507,7 +507,7 @@
 		{
 			"name":"vibration",
 			"id":"com.myflashlab.air.extensions.vibration",
-			"v":"0.0.1",
+			"v":"0.0.11",
 			"desc":"Enables vibration for AdobeAIR",
 			"changelog":"https://github.com/myflashlab/vibration-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,

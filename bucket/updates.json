@@ -29,6 +29,17 @@
 			"path_swc":"admob/admob.swc"
 		},
 		{
+			"name":"appleSignin",
+			"id":"com.myflashlab.air.extensions.appleSignIn",
+			"v":"0.0.1",
+			"desc":"Sign in with Apple makes it easy for users to sign in to your AIR apps using their Apple ID.",
+			"changelog":"https://github.com/myflashlab/AppleSigin-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"appleSignin/icon.png",
+			"path_ane":"appleSignin/appleSignIn.ane",
+			"path_swc":"appleSignin/appleSignIn.swc"
+		},
+		{
 			"name":"AR",
 			"id":"com.myflashlab.air.extensions.ar",
 			"v":"1.1.41",

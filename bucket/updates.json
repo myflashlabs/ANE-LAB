@@ -714,6 +714,127 @@
 			"path_swc":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.swc"
 		},
 		{
+			"name":"androidx_arch",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.arch",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-arch/icon.png",
+			"path_ane":"DEPENDENCY/androidx-arch/androidx_arch.ane",
+			"path_swc":"DEPENDENCY/androidx-arch/androidx_arch.swc"
+		},
+		{
+			"name":"androidx_biometric",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.biometric",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-biometric/icon.png",
+			"path_ane":"DEPENDENCY/androidx-biometric/androidx_biometric.ane",
+			"path_swc":"DEPENDENCY/androidx-biometric/androidx_biometric.swc"
+		},
+		{
+			"name":"androidx_browser",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.browser",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-browser/icon.png",
+			"path_ane":"DEPENDENCY/androidx-browser/androidx_browser.ane",
+			"path_swc":"DEPENDENCY/androidx-browser/androidx_browser.swc"
+		},
+		{
+			"name":"androidx_cardview",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.cardview",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-cardview/icon.png",
+			"path_ane":"DEPENDENCY/androidx-cardview/androidx_cardview.ane",
+			"path_swc":"DEPENDENCY/androidx-cardview/androidx_cardview.swc"
+		},
+		{
+			"name":"androidx_core",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.core",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-core/icon.png",
+			"path_ane":"DEPENDENCY/androidx-core/androidx_core.ane",
+			"path_swc":"DEPENDENCY/androidx-core/androidx_core.swc"
+		},
+		{
+			"name":"androidx_design",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.design",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-design/icon.png",
+			"path_ane":"DEPENDENCY/androidx-design/androidx_design.ane",
+			"path_swc":"DEPENDENCY/androidx-design/androidx_design.swc"
+		},
+		{
+			"name":"androidx_exifinterface",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.exifinterface",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-exifinterface/icon.png",
+			"path_ane":"DEPENDENCY/androidx-exifinterface/androidx_exifinterface.ane",
+			"path_swc":"DEPENDENCY/androidx-exifinterface/androidx_exifinterface.swc"
+		},
+		{
+			"name":"androidx_lifecycle",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.lifecycle",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-lifecycle/icon.png",
+			"path_ane":"DEPENDENCY/androidx-lifecycle/androidx_lifecycle.ane",
+			"path_swc":"DEPENDENCY/androidx-lifecycle/androidx_lifecycle.swc"
+		},
+		{
+			"name":"androidx_mediarouter",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.mediarouter",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-mediarouter/icon.png",
+			"path_ane":"DEPENDENCY/androidx-mediarouter/androidx_mediarouter.ane",
+			"path_swc":"DEPENDENCY/androidx-mediarouter/androidx_mediarouter.swc"
+		},
+		{
+			"name":"androidx_utils",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.utils",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-utils/icon.png",
+			"path_ane":"DEPENDENCY/androidx-utils/androidx_utils.ane",
+			"path_swc":"DEPENDENCY/androidx-utils/androidx_utils.swc"
+		},
+		{
+			"name":"androidx_vector",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.vector",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-vector/icon.png",
+			"path_ane":"DEPENDENCY/androidx-vector/androidx_vector.ane",
+			"path_swc":"DEPENDENCY/androidx-vector/androidx_vector.swc"
+		},
+		{
 			"name":"Bolts",
 			"id":"com.myflashlab.air.extensions.dependency.bolts",
 			"v":"1.4.1",

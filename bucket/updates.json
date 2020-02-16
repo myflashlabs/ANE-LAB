@@ -1244,7 +1244,7 @@
 		{
 			"name":"googlePlayServices_ads",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.ads",
-			"v":"17.2.1",
+			"v":"18.3.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1255,7 +1255,7 @@
 		{
 			"name":"googlePlayServices_adsLite",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.ads.lite",
-			"v":"17.2.1",
+			"v":"18.3.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1266,7 +1266,7 @@
 		{
 			"name":"googlePlayServices_analytics",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.analytics",
-			"v":"16.0.81",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1299,7 +1299,7 @@
 		{
 			"name":"googlePlayServices_auth",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.auth",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1321,7 +1321,7 @@
 		{
 			"name":"googlePlayServices_base",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.base",
-			"v":"16.1.1",
+			"v":"17.1.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1332,7 +1332,7 @@
 		{
 			"name":"googlePlayServices_basement",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.basement",
-			"v":"16.2.1",
+			"v":"17.1.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1343,7 +1343,7 @@
 		{
 			"name":"googlePlayServices_clearcut",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.clearcut",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1354,7 +1354,7 @@
 		{
 			"name":"googlePlayServices_drive",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.drive",
-			"v":"16.1.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1365,7 +1365,7 @@
 		{
 			"name":"googlePlayServices_flags",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.flags",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1376,7 +1376,7 @@
 		{
 			"name":"googlePlayServices_games",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.games",
-			"v":"17.0.1",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1387,7 +1387,7 @@
 		{
 			"name":"googlePlayServices_gass",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.gass",
-			"v":"17.0.1",
+			"v":"18.3.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1442,7 +1442,7 @@
 		{
 			"name":"googlePlayServices_location",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.location",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1453,7 +1453,7 @@
 		{
 			"name":"googlePlayServices_maps",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.maps",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1464,7 +1464,7 @@
 		{
 			"name":"googlePlayServices_measurementBase",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.measurementBase",
-			"v":"16.4.1",
+			"v":"17.2.1",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1486,7 +1486,7 @@
 		{
 			"name":"googlePlayServices_panorama",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.panorama",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-panorama/icon.png",
@@ -1496,7 +1496,7 @@
 		{
 			"name":"googlePlayServices_phenotype",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.phenotype",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-phenotype/icon.png",
@@ -1506,7 +1506,7 @@
 		{
 			"name":"googlePlayServices_places",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.places",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1539,7 +1539,7 @@
 		{
 			"name":"googlePlayServices_stats",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.stats",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1550,7 +1550,7 @@
 		{
 			"name":"googlePlayServices_tagmanager",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.tagmanager",
-			"v":"16.0.81",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1561,7 +1561,7 @@
 		{
 			"name":"googlePlayServices_tasks",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.tasks",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1572,7 +1572,7 @@
 		{
 			"name":"googlePlayServices_vision",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.vision",
-			"v":"17.0.21",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1583,7 +1583,7 @@
 		{
 			"name":"tensorflow",
 			"id":"com.myflashlab.air.extensions.dependency.tensorflow",
-			"v":"1.12.1",
+			"v":"1.13.1",
 			"desc":"Includes Android dependencies for Tensorflow library",
 			"changelog":"",
 			"isDependency":true,

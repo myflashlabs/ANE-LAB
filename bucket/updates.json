@@ -848,7 +848,7 @@
 		{
 			"name":"firebase_abt",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.abt",
-			"v":"17.1.1",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -868,9 +868,42 @@
 			"path_swc":"DEPENDENCY/firebase-addons/firebase_addons.swc"
 		},
 		{
+			"name":"firebase_addons_fcm",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.addons.fcm",
+			"v":"3.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-addons-fcm/icon.png",
+			"path_ane":"DEPENDENCY/firebase-addons-fcm/firebase_addons_fcm.ane",
+			"path_swc":"DEPENDENCY/firebase-addons-fcm/firebase_addons_fcm.swc"
+		},
+		{
+			"name":"firebase_addons_firestore",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.addons.firestore",
+			"v":"3.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-addons-firestore/icon.png",
+			"path_ane":"DEPENDENCY/firebase-addons-firestore/firebase_addons_firestore.ane",
+			"path_swc":"DEPENDENCY/firebase-addons-firestore/firebase_addons_firestore.swc"
+		},
+		{
+			"name":"firebase_addons_squareup",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.addons.squareup",
+			"v":"3.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-addons-squareup/icon.png",
+			"path_ane":"DEPENDENCY/firebase-addons-squareup/firebase_addons_squareup.ane",
+			"path_swc":"DEPENDENCY/firebase-addons-squareup/firebase_addons_squareup.swc"
+		},
+		{
 			"name":"firebase_analytics",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.analytics",
-			"v":"16.4.1",
+			"v":"17.2.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -892,7 +925,7 @@
 		{
 			"name":"firebase_appindexing",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.appindexing",
-			"v":"17.1.1",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -903,7 +936,7 @@
 		{
 			"name":"firebase_auth",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.auth",
-			"v":"16.2.11",
+			"v":"19.2.0",
 			"desc":"Includes Android dependencies required by the Firebase Auth ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -914,7 +947,7 @@
 		{
 			"name":"firebase_common",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.common",
-			"v":"16.1.1",
+			"v":"19.3.0",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -925,7 +958,7 @@
 		{
 			"name":"firebase_config",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.config",
-			"v":"16.5.1",
+			"v":"19.1.0",
 			"desc":"Includes Android dependencies required by the Firebase Remote Config ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -947,7 +980,7 @@
 		{
 			"name":"firebase_database",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.database",
-			"v":"16.1.1",
+			"v":"19.2.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -958,7 +991,7 @@
 		{
 			"name":"firebase_databaseCollection",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.database.collection",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -978,9 +1011,20 @@
 			"path_swc":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.swc"
 		},
 		{
+			"name":"firebase_datatransport",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.datatransport",
+			"v":"17.0.3",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-datatransport/icon.png",
+			"path_ane":"DEPENDENCY/firebase-datatransport/firebase_datatransport.ane",
+			"path_swc":"DEPENDENCY/firebase-datatransport/firebase_datatransport.swc"
+		},
+		{
 			"name":"firebase_dynamicLinks",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.dynamicLinks",
-			"v":"16.1.81",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -989,9 +1033,20 @@
 			"path_swc":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.swc"
 		},
 		{
+			"name":"firebase_encodersJson",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.encoders.json",
+			"v":"16.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-encoders-json/icon.png",
+			"path_ane":"DEPENDENCY/firebase-encoders-json/firebase_encoders_json.ane",
+			"path_swc":"DEPENDENCY/firebase-encoders-json/firebase_encoders_json.swc"
+		},
+		{
 			"name":"firebase_firestore",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.firestore",
-			"v":"18.2.1",
+			"v":"21.3.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1002,7 +1057,7 @@
 		{
 			"name":"firebase_functions",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.functions",
-			"v":"16.3.1",
+			"v":"19.0.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1013,7 +1068,7 @@
 		{
 			"name":"firebase_iid",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.iid",
-			"v":"17.1.21",
+			"v":"20.0.2",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1024,7 +1079,7 @@
 		{
 			"name":"firebase_inappmessaging",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.inappmessaging",
-			"v":"17.1.11",
+			"v":"19.0.2",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1035,7 +1090,7 @@
 		{
 			"name":"firebase_measurementConnector",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.measurement.connector",
-			"v":"17.0.11",
+			"v":"18.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1057,7 +1112,7 @@
 		{
 			"name":"firebase_messaging",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.messaging",
-			"v":"17.6.1",
+			"v":"20.1.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1068,7 +1123,7 @@
 		{
 			"name":"firebase_ml",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.ml",
-			"v":"19.0.31",
+			"v":"24.0.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1079,7 +1134,7 @@
 		{
 			"name":"firebase_perf",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.perf",
-			"v":"16.2.51",
+			"v":"19.0.4",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1090,7 +1145,7 @@
 		{
 			"name":"firebase_storage",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.storage",
-			"v":"16.1.1",
+			"v":"19.1.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,

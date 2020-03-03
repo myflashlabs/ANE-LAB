@@ -119,7 +119,7 @@
 		{
 			"name":"fileBrowser",
 			"id":"com.myflashlab.air.extensions.fileBrowser",
-			"v":"4.2.21",
+			"v":"5.0.1",
 			"desc":"FileChooser is a very easy to work air native extension to let you choose a file from your device to be able to use it inside your Adobe Air project",
 			"changelog":"https://github.com/myflashlab/fileChooser-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -306,7 +306,7 @@
 		{
 			"name":"GameServices",
 			"id":"com.myflashlab.air.extensions.gameServices",
-			"v":"4.3.1",
+			"v":"5.0.0",
 			"desc":"Game Services Air native extension is supported on Android with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.",
 			"changelog":"https://github.com/myflashlab/GameServices-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -317,7 +317,7 @@
 		{
 			"name":"GoogleSignIn",
 			"id":"com.myflashlab.air.extensions.google.signin",
-			"v":"2.0.1",
+			"v":"3.0.0",
 			"desc":"GoogleSignIn AIR Native Extension lets you signin your users to your app using Google. Works on Android and iOS",
 			"changelog":"https://github.com/myflashlab/GoogleSignIn-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,

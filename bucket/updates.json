@@ -196,13 +196,16 @@
 		{
 			"name":"FirebaseMessaging",
 			"id":"com.myflashlab.air.extensions.firebase.fcm",
-			"v":"9.0.1",
+			"v":"9.0.2",
 			"desc":"Firebase Messaging.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
 			"thumb":"firebase/fcm/icon.png",
 			"path_ane":"firebase/fcm/firebaseMessaging.ane",
-			"path_swc":"firebase/fcm/firebaseMessaging.swc"
+			"path_swc":"firebase/fcm/firebaseMessaging.swc",
+			"alternatives":[
+				"firebase/fcm/firebaseMessaging_UNUserNotificationCenterDelegate.ane"
+			]
 		},
 		{
 			"name":"FirebaseFirestore",

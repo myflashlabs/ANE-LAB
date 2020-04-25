@@ -1,6 +1,6 @@
 {
 	"lab":{
-		"v":"3.16.0",
+		"v":"3.17.0",
 		"changelog":"",
 		"path_dmg":"aneLab.dmg",
 		"path_exe":"aneLab.exe"
@@ -561,17 +561,6 @@
 			"thumb":"volume/icon.png",
 			"path_ane":"volume/volume.ane",
 			"path_swc":"volume/volume.swc"
-		},
-		{
-			"name":"RichWebview",
-			"id":"com.myflashlab.air.extensions.webView",
-			"v":"7.1.7",
-			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
-			"changelog":"https://github.com/myflashlab/webView-ANE/raw/master/ChangeLog.md",
-			"isDependency":false,
-			"thumb":"webView/icon.png",
-			"path_ane":"webView/richWebView.ane",
-			"path_swc":"webView/richWebView.swc"
 		},
 		{
 			"name":"RichWebview II",

@@ -1166,17 +1166,6 @@
 			"path_swc":"DEPENDENCY/play-services-tagmanager/googlePlayServices_tagmanager.swc"
 		},
 		{
-			"name":"googlePlayServices_safetynet",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.safetynet",
-			"v":"15.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-safetynet/icon.png",
-			"path_ane":"DEPENDENCY/play-services-safetynet/googlePlayServices_safetynet.ane",
-			"path_swc":"DEPENDENCY/play-services-safetynet/googlePlayServices_safetynet.swc"
-		},
-		{
 			"name":"googlePlayServices_stats",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.stats",
 			"v":"17.0.0",

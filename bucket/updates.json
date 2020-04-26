@@ -629,17 +629,6 @@
 			"path_swc":"DEPENDENCY/AndroidSupport-core/androidSupport-core.swc"
 		},
 		{
-			"name":"AndroidSupport-customtabs",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.customtabs",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-customtabs/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.swc"
-		},
-		{
 			"name":"AndroidSupport-design",
 			"id":"com.myflashlab.air.extensions.dependency.androidSupport.design",
 			"v":"27.1.11",

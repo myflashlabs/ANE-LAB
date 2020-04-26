@@ -585,17 +585,6 @@
 			"path_swc":"zipManager/zipManagerExtension.swc"
 		},
 		{
-			"name":"AndroidSupport",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport",
-			"v":"27.0.2",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport/androidSupport.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport/androidSupport.swc"
-		},
-		{
 			"name":"AndroidSupport-appcompat-v7",
 			"id":"com.myflashlab.air.extensions.dependency.androidSupport.appcompatV7",
 			"v":"27.1.11",

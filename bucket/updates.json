@@ -805,17 +805,6 @@
 			"path_swc":"DEPENDENCY/firebase-datatransport/firebase_datatransport.swc"
 		},
 		{
-			"name":"firebase_datatransport",
-			"id":"com.myflashlab.air.extensions.dependency.firebase.datatransport",
-			"v":"17.0.3",
-			"desc":"Includes Android dependencies required by the Firebase ANEs",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/firebase-datatransport/icon.png",
-			"path_ane":"DEPENDENCY/firebase-datatransport/firebase_datatransport.ane",
-			"path_swc":"DEPENDENCY/firebase-datatransport/firebase_datatransport.swc"
-		},
-		{
 			"name":"firebase_dynamicLinks",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.dynamicLinks",
 			"v":"19.0.0",
@@ -1142,28 +1131,6 @@
 			"thumb":"DEPENDENCY/play-services-places/icon.png",
 			"path_ane":"DEPENDENCY/play-services-places/googlePlayServices_places.ane",
 			"path_swc":"DEPENDENCY/play-services-places/googlePlayServices_places.swc"
-		},
-		{
-			"name":"googlePlayServices_stats",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.stats",
-			"v":"17.0.0",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-stats/icon.png",
-			"path_ane":"DEPENDENCY/play-services-stats/googlePlayServices_stats.ane",
-			"path_swc":"DEPENDENCY/play-services-stats/googlePlayServices_stats.swc"
-		},
-		{
-			"name":"googlePlayServices_tagmanager",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.tagmanager",
-			"v":"17.0.0",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-tagmanager/icon.png",
-			"path_ane":"DEPENDENCY/play-services-tagmanager/googlePlayServices_tagmanager.ane",
-			"path_swc":"DEPENDENCY/play-services-tagmanager/googlePlayServices_tagmanager.swc"
 		},
 		{
 			"name":"googlePlayServices_stats",
